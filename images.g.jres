@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQIAAgAAAAAAIAAAACIAACAiAAAiIgAAIiIAACAiAAAAIgAAACAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "WizzardHatIcon"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAPD/////AAAA8BEREfH/AADwEREREfEAAPD/HxER8QAA8BERERHxAADwEREREfEAAPD/HxER8QAA8BERERHxAADw/x8REfEAAPARERER8QAA8BERERHx8P////8REfHwERERERER8fARERERERH/8BEREREREf/w////////Dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Cursor"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
